@@ -15,3 +15,7 @@ description: Install or restore the bundled 名侦探柯南 v2 skin as a local c
 运行完成后，告诉用户可以在 Codex 桌面端的「设置 → 宠物」点击「刷新」，然后选中「名侦探柯南」。只有看到了桌面端的宠物列表时，才报告已在界面验证。
 
 `assets/conan-detective` 也可以作为一个完整的本地宠物目录，手动复制到 Codex 根目录下的 `pets`。它包含原始透明 PNG 动画图集和 v2 清单。
+
+
+
+<img src="./onan-preview.gif" width="480" alt="演示动图">
