@@ -18,4 +18,4 @@ description: Install or restore the bundled 名侦探柯南 v2 skin as a local c
 
 
 
-<img src="./onan-preview.gif" width="480" alt="演示动图">
+<img src="./conan-preview.gif" width="480" alt="演示动图">
