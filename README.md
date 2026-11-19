@@ -16,6 +16,4 @@ description: Install or restore the bundled 名侦探柯南 v2 skin as a local c
 
 `assets/conan-detective` 也可以作为一个完整的本地宠物目录，手动复制到 Codex 根目录下的 `pets`。它包含原始透明 PNG 动画图集和 v2 清单。
 
-
-
 <img src="./conan-preview.gif" width="480" alt="演示动图">
